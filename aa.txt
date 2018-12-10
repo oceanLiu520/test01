@@ -1,3 +1,5 @@
+ssh update
+
 clone
 second push aaa
 111loginacct
